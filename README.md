@@ -1,5 +1,10 @@
-# AceBook
+AceBook
+==================
 
+<div align="left"> 
+<img src="app/assets/images/ace.png" alt="ace" width="200"/> </a> 
+<div>
+  
 ## Overview
 
 This project is a simple Facebook clone. Users can signup with an optional profile picture, login, make posts (with images), like/dislike and comment on posts, search all posts for specific content, and view their own profile page.
